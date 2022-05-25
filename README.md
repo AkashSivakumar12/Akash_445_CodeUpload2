@@ -2,7 +2,7 @@
 ## Hackerrank Code Used
 ### Problem 1
 Printing Pattern Using Loops
-`
+```
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -26,10 +26,10 @@ int main()
         printf("\n");
     }
 }
-`
+```
 ### Problem 2
 Power digit sum
-`
+```
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
@@ -103,10 +103,10 @@ int main()
 
     return 0;
 }
-`
+```
 ### Problem 3
 Even Fibonacci numbers
-`
+```
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
@@ -142,10 +142,10 @@ int main()
  }
  return 0;
 }
-`
+```
 ### Problem 4
 Largest palindrome product
-`
+```
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -197,10 +197,10 @@ int main() {
     }
     return 0;
 }
-`
+```
 ### Problem 5
 Printing Tokens
-`
+```
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -225,10 +225,10 @@ int main() {
     }
     return 0;
 }
-`
+```
 ### Problem 6
 Multiples of 3 and 5
-`
+```
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -251,10 +251,10 @@ unsigned long long n,i,sum=0,t;
     }
     return 0;
 }
-`
+```
 ### Problem 7
 Factorial digit sum
-`
+```
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -304,4 +304,4 @@ int main()
        }
     return 0;
 }
-`
+```
